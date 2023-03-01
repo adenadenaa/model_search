@@ -1,2 +1,3 @@
 Change for the first commit in br2
-Change for the second commit in br1
+Change for the second commit in br2
+Change for the third commit in br2
